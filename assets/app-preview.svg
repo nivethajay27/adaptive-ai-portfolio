@@ -1,0 +1,43 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E2436"/>
+      <stop offset="1" stop-color="#152E43"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1B3B58" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#123149" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <circle cx="120" cy="90" r="90" fill="#4FD4B5" fill-opacity="0.15"/>
+  <circle cx="1080" cy="120" r="100" fill="#FFBF69" fill-opacity="0.15"/>
+
+  <text x="70" y="78" fill="#FFD48D" font-family="Arial, sans-serif" font-size="16" letter-spacing="2">AI PORTFOLIO BUILDER</text>
+  <text x="70" y="128" fill="#F3FAFF" font-family="Arial, sans-serif" font-size="44" font-weight="700">Adaptive Portfolio for Every Recruiter</text>
+  <text x="70" y="165" fill="#BFD8E8" font-family="Arial, sans-serif" font-size="20">Save, share, revisit session history, and export polished recruiter-ready versions.</text>
+
+  <rect x="60" y="210" width="420" height="430" rx="18" fill="url(#panel)" stroke="#7FCFFF" stroke-opacity="0.25"/>
+  <text x="90" y="255" fill="#F4FBFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Generator</text>
+  <rect x="90" y="280" width="360" height="42" rx="8" fill="#0D2435" stroke="#5B8EB1"/>
+  <rect x="90" y="340" width="360" height="42" rx="8" fill="#0D2435" stroke="#5B8EB1"/>
+  <rect x="90" y="400" width="360" height="90" rx="8" fill="#0D2435" stroke="#5B8EB1"/>
+  <rect x="90" y="515" width="220" height="42" rx="9" fill="#54D9BA"/>
+  <text x="106" y="542" fill="#052638" font-family="Arial, sans-serif" font-size="15" font-weight="700">Generate Tailored Portfolio</text>
+
+  <rect x="515" y="210" width="625" height="430" rx="18" fill="url(#panel)" stroke="#7FCFFF" stroke-opacity="0.25"/>
+  <text x="548" y="255" fill="#F4FBFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Generated Portfolio</text>
+  <rect x="960" y="230" width="145" height="28" rx="14" fill="#1D604F" stroke="#7CE1C7"/>
+  <text x="985" y="249" fill="#CBFFF1" font-family="Arial, sans-serif" font-size="12" font-weight="700">AI GENERATED</text>
+
+  <rect x="548" y="283" width="560" height="70" rx="10" fill="#0D2435" stroke="#5B8EB1"/>
+  <rect x="548" y="373" width="270" height="120" rx="10" fill="#0D2435" stroke="#5B8EB1"/>
+  <rect x="838" y="373" width="270" height="120" rx="10" fill="#0D2435" stroke="#5B8EB1"/>
+  <rect x="548" y="513" width="170" height="36" rx="9" fill="#20445D" stroke="#5B8EB1"/>
+  <text x="578" y="536" fill="#D8EEFF" font-family="Arial, sans-serif" font-size="13">Copy Share Link</text>
+  <rect x="733" y="513" width="130" height="36" rx="9" fill="#20445D" stroke="#5B8EB1"/>
+  <text x="766" y="536" fill="#D8EEFF" font-family="Arial, sans-serif" font-size="13">Export PDF</text>
+
+  <text x="70" y="675" fill="#99BCD3" font-family="Arial, sans-serif" font-size="14">Preview mock of the live app UI</text>
+</svg>
