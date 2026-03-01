@@ -3,10 +3,10 @@
 An AI-powered personal portfolio web app that rewrites your narrative for each recruiter and role.
 
 ## Demo
-![Adaptive AI Portfolio Demo GIF](assets/demo.gif)
 ![Adaptive AI Portfolio UI Preview](assets/app-preview.svg)
 
-To replace the placeholder GIF with a real demo, follow [assets/DEMO.md](assets/DEMO.md).
+![Adaptive AI Portfolio Demo GIF](assets/demo.gif)
+
 
 ## Stack
 - Frontend: React + TypeScript + Vite
@@ -93,11 +93,4 @@ Update `frontend/src/data.ts` with your:
 }
 ```
 
-## GitHub polish ideas
-- Add screenshots/gif demo
-- Deploy frontend to Vercel, backend to Render/Railway
-- Add auth + save/share tailored versions
-- Add recruiter session history and export to PDF
 
-## Notes
-This is intentionally an MVP scaffold built for portfolio impact and extension speed.
